@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Разработка коньков",
+            "img": "https://img.freepik.com/free-photo/top-view-ice-skates-still-life_23-2150558988.jpg?t=st=1712979722~exp=1712983322~hmac=21c57547c05d3f90335c293ebc4e07509ff8e833124739790a46b7d151488d99&w=1380"
+        },
+        {
+            "id": 2,
+            "name": "Тимбилдинг",
+            "img": "https://img.freepik.com/free-vector/hand-drawn-digital-natives-illustration_23-2151197112.jpg?t=st=1712979802~exp=1712983402~hmac=a0ab50da4d876308e7ff1054909333e57ac84e42b0f6e4bb25be352a5655ef18&w=1380"
+        }
+    ]
+}
